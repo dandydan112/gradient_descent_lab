@@ -1,0 +1,4 @@
+axes.grid: True
+figure.figsize: 10, 6
+lines.linewidth: 2
+font.size: 12
